@@ -7,7 +7,7 @@ rotation law to derive how rotation rate varies with latitude.
 
 ## Background
 
-The Sun does not rotate as a rigid body — its equator rotates faster than
+The Sun does not rotate as a rigid body, its equator rotates faster than
 its higher latitudes. This is described by the differential rotation law:
 
 ```
