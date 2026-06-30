@@ -39,6 +39,14 @@ approach used in classical solar rotation studies (e.g. Snodgrass & Ulrich).
    with the fitted curve overlaid, rotation period vs. latitude, and the
    linearised fit used to extract `A` and `B`.
 
+## Results
+
+![Solar differential rotation profile](rotation_profile.png)
+
+![Rotation period vs latitude](rotation_period.png)
+
+![Linearised differential rotation fit](linearised_fit.png)
+
 ## Input data format
 
 Each `sunspot_*.csv` file represents one tracked sunspot, observed once per
